@@ -36,7 +36,7 @@ foreach ($array as $key => &$valor){
     $array[$key]= $valor . "mod.";
 }
 
-
+echo "Hola";
 
 
 
